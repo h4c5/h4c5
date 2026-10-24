@@ -1,4 +1,4 @@
-👋 Bonjour, je m'appelle Hakim et je suis Data Scientist chez [@Valeuriad](https://github.com/Valeuriad).
+👋 Bonjour, je m'appelle Hakim et je suis Ingénieur IA chez [@IOD-solutions](https://github.com/IOD-Solutions).
 
 ## Stack technique
 
