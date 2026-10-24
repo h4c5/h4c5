@@ -22,15 +22,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Derniers articles
-
-
-- [`17/03/2024 - Comment récupérer les articles de légifrance`](https://hachenotes.vercel.app/posts/api-legifrance/)
-- [`09/03/2024 - Finetuner un modèle CamemBERT pour l'embedding de phrases`](https://hachenotes.vercel.app/posts/sts-camembert/)
-- [`01/11/2023 - ptpython : un terminal python interatif`](https://hachenotes.vercel.app/posts/ptpython/)
-- [`09/09/2023 - JSON dans les projets data science : Trucs & Astuces`](https://hachenotes.vercel.app/posts/python-json/)
-- [`11/03/2023 - Introduction au packaging en python`](https://hachenotes.vercel.app/posts/packaging-python/)
-
 ## Derniers partages
 
 - [`01/04/2024 - A Recipe for Training Neural Networks`](https://karpathy.github.io/2019/04/25/recipe/)
